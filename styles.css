@@ -2,7 +2,15 @@
 
 /* For this project, you just need to add and change the CSS. You don't need to change the HTML elements.
 The existing classes in the HTML elements should be enough, however you are allowed to add more classes to the 
-html element */
+html element 
+
+expected result 
+- solve with grid
+- animation when user hover the card
+
+*/
+
+
 
 .boxes-container {
   display: grid;
